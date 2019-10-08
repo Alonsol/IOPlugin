@@ -1,4 +1,4 @@
-package com.sing.mytest;
+package com.sing.mytest.demo;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -6,10 +6,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
+
 import com.sing.baselibrary.CheckNet;
 import com.sing.baselibrary.OnClick;
 import com.sing.baselibrary.ViewById;
 import com.sing.baselibrary.ViewUtils;
+import com.sing.mytest.R;
 
 /**
  * Created by yy on 2019/9/10.
